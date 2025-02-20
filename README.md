@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on interactions and feedbacks between hydrological extremes and human behaviours using system dynamics model
+- 🔭 Currently working on interactions and feedbacks between hydrological extremes and human behaviours using system dynamics model
 
 
 <!--
